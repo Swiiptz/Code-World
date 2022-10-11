@@ -1,5 +1,6 @@
+from fonctions_utile import  *
 def launch():
-  print(27 * '-+' + "\n{" + 20 * ' ' + "Bienvenue sur" + 19 * " " + "}" +
+    print(27 * '-+' + "\n{" + 20 * ' ' + "Bienvenue sur" + 19 * " " + "}" +
           "\n{" + 52 * ' ' + "}" + "\n{" + 21 * ' ' + "Code World" + 21 * " " +
           "}\n" + 27 * '+-' + "\n")
     print(19 * ' ' + "1/ \"New Game\"\n" + 19 * ' ' + "2/ \"Continue\"\n" +
